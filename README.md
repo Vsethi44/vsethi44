@@ -1,4 +1,7 @@
-## Hi there 👋
+
+![1719354910789](https://github.com/Vsethi44/vsethi44/assets/151629020/c3da9b7f-222e-443e-aa6b-b018ab1c415f)
+
+Hi there 👋
 Aspiring Cloud and DevOps Enthusiast
 <!--
 **Vsethi44/vsethi44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
