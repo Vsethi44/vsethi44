@@ -30,7 +30,7 @@ I've seen what breaks systems. Now I build systems that **fix themselves**.
 **Tech:** Prometheus, Alertmanager, Flask (Python), Ansible, AWS EC2  
 **Impact:** Recovery time reduced from **15 min → <2 min** (88% faster)
 
-[→ View Project](https://github.com/Vsethi44/Self-Healing-Infrastructure-Prometheus-Alertmanager-Ansible)
+[→ View Project](https://github.com/Vsethi44/Self-Healing-Infrastructure-with-Prometheus-Alertmanager-Ansible)
 
 ---
 
