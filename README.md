@@ -1,98 +1,154 @@
-# Hi there, I'm Vishawnath Sethi 👋
+<div align="center">
 
-## IT Operations Engineer → Cloud & DevOps
+# Vishawnath Sethi
 
-With 9+ years of enterprise IT operations experience (Dell, Capgemini), I'm now building automated, self-healing cloud infrastructure. I combine operational reliability mindset with modern cloud-native practices.
+### From Managing 24×7 Enterprise Operations to Building Self-Healing Cloud Systems
 
----
+**9 Years IT Operations (Dell, Capgemini) → AWS Certified Cloud & DevOps Engineer**
 
-### 🚀 What I'm Working On
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vishawnath-sethi-b219a232/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:vishawanth.sethi786@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-00C7B7?style=for-the-badge)](https://linktr.ee/vishawnathsethi)
 
-- **Self-Healing Infrastructure**: Automated monitoring and recovery systems using Prometheus, Alertmanager & Ansible
-- **CI/CD Automation**: Building efficient deployment pipelines with GitHub Actions, Docker & Kubernetes
-- **Cloud Architecture**: Designing scalable AWS solutions with Infrastructure as Code
-
----
-
-### 💼 Core Skills
-
-**Cloud & DevOps**  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
-**CI/CD & Monitoring**  
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+</div>
 
 ---
 
-### 🎓 Certifications
+## 💡 What Makes Me Different
 
-- ✅ **AWS Certified Solutions Architect – Associate** (Valid till Nov 2026)
-- ✅ **Microsoft Certified: DevOps Engineer Expert** (AZ-400)
-- ✅ **Microsoft Certified: Azure Administrator Associate** (AZ-104)
+Most DevOps engineers come from development backgrounds. I come from **9 years of fixing production incidents at 3 AM.**
 
----
-
-### 🔥 Featured Projects
-
-#### 🛠️ [Self-Healing Infrastructure](https://github.com/Vsethi44/Self-Healing-Infrastructure-Prometheus-Alertmanager-Ansible)
-Automated monitoring system that detects service failures and auto-recovers without manual intervention
-- **Tech**: Prometheus, Alertmanager, Flask, Ansible
-- **Impact**: Reduced MTTR from ~15 min to <2 min
-
-#### 🚀 [CI/CD Pipeline for Node.js](https://github.com/Vsethi44/End-to-End-CI-CD-for-Node.js-Application-using-Docker-GitHub-Actions)
-End-to-end automated deployment pipeline with Docker containerization
-- **Tech**: GitHub Actions, Docker, DockerHub
-- **Impact**: 80% reduction in manual deployment effort
-
-#### ☁️ [Production Static Website on AWS](https://github.com/Vsethi44/Production-Static-Website-Hosting-AWS-CICD)
-Scalable static website hosting with automated CI/CD
-- **Tech**: AWS S3, CloudFront, GitHub Actions
-- **Features**: Auto-deployment, SSL, CDN optimization
+I've seen what breaks systems. Now I build systems that **fix themselves**.
 
 ---
 
-### 📊 GitHub Stats
+## 🎯 What I've Built
 
-![Vishawnath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vsethi44&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)
+### 🔄 Self-Healing Infrastructure That Actually Works
+**Problem Solved:** Manual incident response taking 15+ minutes, causing revenue loss  
+**Solution Built:** Automated monitoring → detection → recovery pipeline  
+**Tech:** Prometheus, Alertmanager, Flask (Python), Ansible, AWS EC2  
+**Impact:** Recovery time reduced from **15 min → <2 min** (88% faster)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vsethi44&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
----
-
-### 💡 Background
-
-**Previous Experience:**
-- **Senior Consultant** @ Capgemini (2021-2022): Enterprise IT operations, incident management, team leadership
-- **Technical Support Engineer** @ Dell (2015-2021): System troubleshooting, documentation, client support
-- Managed 24×7 support environments, achieving 98%+ SLA adherence
-
-**Now:** Leveraging operational expertise to build reliable, automated cloud infrastructure
+[→ View Project](https://github.com/Vsethi44/Self-Healing-Infrastructure-Prometheus-Alertmanager-Ansible)
 
 ---
 
-### 📫 Let's Connect
+### 🚀 Zero-Touch CI/CD Pipeline
+**Problem Solved:** Manual deployments prone to human error, slow release cycles  
+**Solution Built:** Fully automated build → test → containerize → deploy workflow  
+**Tech:** GitHub Actions, Docker, DockerHub, Node.js (Express)  
+**Impact:** Deployment time reduced **80%**, zero deployment errors
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishawnath-sethi-b219a232/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vishawanth.sethi786@gmail.com)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white)](https://hashnode.com/@vsethi44)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/vsethi44)
-
----
-
-### 🎯 Currently
-
-🔍 **Open to opportunities** in Cloud Support Engineering, DevOps, and SRE roles  
-💼 **Available for freelance** cloud infrastructure and automation projects  
-📚 **Learning**: Advanced Kubernetes, AWS EKS, GitOps with ArgoCD
+[→ View Project](https://github.com/Vsethi44/End-to-End-CI-CD-for-Node.js-Application-using-Docker-GitHub-Actions)
 
 ---
 
-⭐️ **From [Vsethi44](https://github.com/Vsethi44)** | Building reliable systems, one commit at a time
+### ☁️ Production-Grade AWS Static Hosting
+**Problem Solved:** Expensive hosting with manual deployment overhead  
+**Solution Built:** S3 + CloudFront + automated CI/CD pipeline  
+**Tech:** AWS (S3, CloudFront, Route53), GitHub Actions, Terraform  
+**Impact:** 90% cost reduction vs traditional hosting, instant deployments
+
+[→ View Project](https://github.com/Vsethi44/Production-Static-Website-Hosting-AWS-CICD)
+
+---
+
+## 🛠️ Technical Arsenal
+
+```text
+Cloud Platforms    → AWS (Primary), Azure
+Containers         → Docker, Kubernetes
+CI/CD              → GitHub Actions, Jenkins
+IaC                → Terraform, Ansible
+Monitoring         → Prometheus, Grafana, Alertmanager
+Languages          → Python (automation), Bash, YAML
+Operating Systems  → Linux (Ubuntu, RHEL)
+```
+
+---
+
+## 🎓 Certifications That Matter
+
+<div align="center">
+
+| Certification | Issuer | Valid Until |
+|--------------|--------|-------------|
+| **AWS Certified Solutions Architect – Associate** | Amazon Web Services | Nov 2026 |
+| **Microsoft DevOps Engineer Expert** (AZ-400) | Microsoft | Apr 2026 |
+| **Azure Administrator Associate** (AZ-104) | Microsoft | Sep 2026 |
+
+</div>
+
+---
+
+## 📈 The Journey
+
+**2013-2022: Enterprise IT Operations**
+- Managed 100+ client systems weekly at Dell International Services
+- Led 24×7 operations team at Capgemini (98%+ SLA achievement)
+- Resolved 10,000+ production incidents, documented 500+ solutions
+- **Learned:** What breaks in production, why monitoring matters, how to debug under pressure
+
+**2023-2024: Cloud & DevOps Deep Dive**
+- Intensive hands-on training in AWS, Docker, Kubernetes, CI/CD
+- Earned 3 industry certifications
+- Built production-grade projects from scratch
+
+**2025: Building Reliable Systems**
+- Combining operational experience with modern DevOps practices
+- Creating infrastructure that doesn't need 3 AM wake-up calls
+
+---
+
+## 🎯 What I'm Looking For
+
+### Open To:
+- **Cloud Support Engineer** roles (AWS, Azure, GCP)
+- **DevOps Engineer** positions (junior to mid-level)
+- **Site Reliability Engineer** (SRE) opportunities
+- **Freelance projects** in cloud automation & monitoring
+
+### What I Bring:
+✅ Real production experience (not just tutorials)  
+✅ Operational mindset (reliability > features)  
+✅ Documentation skills (every solution includes docs)  
+✅ **Immediate joiner** (no notice period)
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vsethi44&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=bf91f3&icon_color=bf91f3)
+
+</div>
+
+---
+
+## 💬 Let's Talk If You Need:
+
+- Someone who understands **operations pain points** and builds solutions
+- Cloud infrastructure that's **reliable, not just functional**
+- CI/CD pipelines that **actually reduce deployment headaches**
+- Monitoring systems that **catch issues before customers do**
+
+---
+
+<div align="center">
+
+### 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vishawnath-sethi-b219a232/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Vsethi44)
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:vishawanth.sethi786@gmail.com)
+[![Hashnode](https://img.shields.io/badge/Blog-blue?style=flat&logo=hashnode)](https://hashnode.com/@vsethi44)
+
+---
+
+**"I don't just deploy code. I build systems that stay up."**
+
+⭐ Star my repos if you find them useful | 💬 Open to collaboration
+
+</div>
