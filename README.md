@@ -50,7 +50,7 @@ I've seen what breaks systems. Now I build systems that **fix themselves**.
 **Tech:** AWS (S3, CloudFront, Route53), GitHub Actions, Terraform  
 **Impact:** 90% cost reduction vs traditional hosting, instant deployments
 
-[→ View Project](https://github.com/Vsethi44/Production-Static-Website-Hosting-AWS-CICD)
+[→ View Project](https://github.com/Vsethi44/Production-static-website-aws)
 
 ---
 
