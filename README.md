@@ -2,122 +2,139 @@
 
 # Vishawnath Sethi
 
-### From Managing 24×7 Enterprise Operations to Building Self-Healing Cloud Systems
+### IT Support Professional → Cloud Infrastructure Engineer
 
-**9 Years IT Operations (Dell, Capgemini) → AWS Certified Cloud & DevOps Engineer**
+**9 Years Technical Support Experience | AWS Certified | Building Automated, Self-Healing Systems**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vishawnath-sethi-b219a232/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:vishawanth.sethi786@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-00C7B7?style=for-the-badge)](https://linktr.ee/vishawnathsethi)
 
 </div>
 
 ---
 
-## 💡 What Makes Me Different
+## 🎯 My Transition Story
 
-Most DevOps engineers come from development backgrounds. I come from **9 years of fixing production incidents at 3 AM.**
+After 9 years solving technical problems for Dell and Capgemini clients, I realized something:
 
-I've seen what breaks systems. Now I build systems that **fix themselves**.
+**The best support is the support that never needs to happen.**
 
----
-
-## 🎯 What I've Built
-
-### 🔄 Self-Healing Infrastructure That Actually Works
-**Problem Solved:** Manual incident response taking 15+ minutes, causing revenue loss  
-**Solution Built:** Automated monitoring → detection → recovery pipeline  
-**Tech:** Prometheus, Alertmanager, Flask (Python), Ansible, AWS EC2  
-**Impact:** Recovery time reduced from **15 min → <2 min** (88% faster)
-
-[→ View Project](https://github.com/Vsethi44/Self-Healing-Infrastructure-with-Prometheus-Alertmanager-Ansible)
+So I transitioned from **fixing issues manually** to **building systems that fix themselves.**
 
 ---
 
-### 🚀 Zero-Touch CI/CD Pipeline
-**Problem Solved:** Manual deployments prone to human error, slow release cycles  
-**Solution Built:** Fully automated build → test → containerize → deploy workflow  
-**Tech:** GitHub Actions, Docker, DockerHub, Node.js (Express)  
-**Impact:** Deployment time reduced **80%**, zero deployment errors
+## 🛠️ What I've Built
 
-[→ View Project](https://github.com/Vsethi44/End-to-End-CI-CD-for-Node.js-Application-using-Docker-GitHub-Actions)
+### 🔄 Self-Healing Infrastructure
+Automated system that monitors services and recovers from failures without human intervention
 
----
+**Tech Stack:** Prometheus, Alertmanager, Flask (Python), Ansible, AWS EC2  
+**Result:** Automated recovery reduces downtime from manual response times
 
-### ☁️ Production-Grade AWS Static Hosting
-**Problem Solved:** Expensive hosting with manual deployment overhead  
-**Solution Built:** S3 + CloudFront + automated CI/CD pipeline  
-**Tech:** AWS (S3, CloudFront, Route53), GitHub Actions, Terraform  
-**Impact:** 90% cost reduction vs traditional hosting, instant deployments
-
-[→ View Project](https://github.com/Vsethi44/Production-static-website-aws)
+**[→ View Project](https://github.com/Vsethi44/Self-Healing-Infrastructure-Prometheus-Alertmanager-Ansible)** | Screenshots + Demo Available
 
 ---
 
-## 🛠️ Technical Arsenal
+### 🚀 CI/CD Pipeline with Docker
+Fully automated build, test, and deployment workflow for Node.js applications
 
-```text
-Cloud Platforms    → AWS (Primary), Azure
-Containers         → Docker, Kubernetes
-CI/CD              → GitHub Actions, Jenkins
-IaC                → Terraform, Ansible
-Monitoring         → Prometheus, Grafana, Alertmanager
-Languages          → Python (automation), Bash, YAML
-Operating Systems  → Linux (Ubuntu, RHEL)
-```
+**Tech Stack:** GitHub Actions, Docker, DockerHub, Node.js (Express)  
+**Result:** Zero-touch deployments from code commit to production
+
+**[→ View Project](https://github.com/Vsethi44/End-to-End-CI-CD-for-Node.js-Application-using-Docker-GitHub-Actions)** | Live Demo Available
 
 ---
 
-## 🎓 Certifications That Matter
+### ☁️ AWS Static Website Hosting
+Production-ready static site deployment with automated CI/CD and CDN
 
-<div align="center">
+**Tech Stack:** AWS S3, CloudFront, GitHub Actions  
+**Result:** Automated deployments with global content delivery
 
-| Certification | Issuer | Valid Until |
-|--------------|--------|-------------|
-| **AWS Certified Solutions Architect – Associate** | Amazon Web Services | Nov 2026 |
-| **Microsoft DevOps Engineer Expert** (AZ-400) | Microsoft | Apr 2026 |
-| **Azure Administrator Associate** (AZ-104) | Microsoft | Sep 2026 |
-
-</div>
+**[→ View Project](https://github.com/Vsethi44/Production-Static-Website-Hosting-AWS-CICD)** | Architecture Diagram Included
 
 ---
 
-## 📈 The Journey
+## 💻 Technical Skills
 
-**2013-2022: Enterprise IT Operations**
-- Managed 100+ client systems weekly at Dell International Services
-- Led 24×7 operations team at Capgemini (98%+ SLA achievement)
-- Resolved 10,000+ production incidents, documented 500+ solutions
-- **Learned:** What breaks in production, why monitoring matters, how to debug under pressure
+**Cloud & Infrastructure**
+- AWS: EC2, VPC, S3, IAM, CloudWatch, CloudFront
+- Azure: Fundamentals (AZ-104 certified)
 
-**2023-2024: Cloud & DevOps Deep Dive**
-- Intensive hands-on training in AWS, Docker, Kubernetes, CI/CD
-- Earned 3 industry certifications
-- Built production-grade projects from scratch
+**DevOps & Automation**
+- Containers: Docker, Kubernetes (basics)
+- CI/CD: GitHub Actions, Jenkins
+- IaC: Terraform, Ansible
+- Monitoring: Prometheus, Grafana, Alertmanager
 
-**2025: Building Reliable Systems**
-- Combining operational experience with modern DevOps practices
-- Creating infrastructure that doesn't need 3 AM wake-up calls
+**Languages & Scripting**
+- Python (automation scripts)
+- Bash (shell scripting)
+- YAML (configurations)
+
+**Systems**
+- Linux (Ubuntu, command line)
+- Git & GitHub
+
+---
+
+## 🎓 Certifications
+
+| Certification | Valid Until |
+|--------------|-------------|
+| AWS Certified Solutions Architect – Associate | Nov 2026 |
+| Microsoft DevOps Engineer Expert (AZ-400) | Apr 2026 |
+| Microsoft Azure Administrator (AZ-104) | Sep 2026 |
+
+---
+
+## 📚 Background
+
+**2015-2021: Technical Support Engineer @ Dell International Services**
+- Resolved software and hardware issues for 100+ clients weekly
+- Developed systematic troubleshooting approach
+- Created knowledge base documentation
+- Learned: How systems fail, what users struggle with, importance of clear documentation
+
+**2021-2022: Senior Consultant @ Capgemini**
+- Used New Relic for application monitoring
+- Analyzed incidents and created tickets in ServiceNow
+- Coordinated with clients on issue resolution
+- Led team to maintain SLA compliance
+- Learned: How monitoring tools work, incident management workflows, client communication
+
+**2023-2024: Career Transition to Cloud & DevOps**
+- Completed intensive training in AWS, Docker, Kubernetes, CI/CD
+- Earned 3 professional certifications
+- Built hands-on projects to demonstrate skills
+- Learned: Infrastructure as code, automation, cloud architecture
+
+**2025: Seeking Cloud/DevOps Roles**
+- Applying troubleshooting mindset to infrastructure problems
+- Building automated solutions instead of manual fixes
+- Ready to contribute to reliability-focused teams
 
 ---
 
 ## 🎯 What I'm Looking For
 
-### Open To:
-- **Cloud Support Engineer** roles (AWS, Azure, GCP)
-- **DevOps Engineer** positions (junior to mid-level)
-- **Site Reliability Engineer** (SRE) opportunities
-- **Freelance projects** in cloud automation & monitoring
+### Open to these roles:
+- ✅ Cloud Support Engineer (AWS, Azure, GCP)
+- ✅ DevOps Engineer (Entry to Junior level)
+- ✅ Cloud Operations roles
+- ✅ Freelance cloud automation projects
 
-### What I Bring:
-✅ Real production experience (not just tutorials)  
-✅ Operational mindset (reliability > features)  
-✅ Documentation skills (every solution includes docs)  
-✅ **Immediate joiner** (no notice period)
+### What I bring:
+- **Real troubleshooting experience** from 9 years in support
+- **Documentation skills** - I know how to explain technical concepts clearly
+- **Monitoring tool experience** - Used New Relic professionally
+- **Client communication** - Comfortable working directly with stakeholders
+- **Operational mindset** - Focus on reliability and user experience
+- **Immediate availability** - No notice period required
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -127,28 +144,33 @@ Operating Systems  → Linux (Ubuntu, RHEL)
 
 ---
 
-## 💬 Let's Talk If You Need:
+## 💡 My Approach
 
-- Someone who understands **operations pain points** and builds solutions
-- Cloud infrastructure that's **reliable, not just functional**
-- CI/CD pipelines that **actually reduce deployment headaches**
-- Monitoring systems that **catch issues before customers do**
+**I learned cloud/DevOps because I was tired of being called at 3 AM to manually restart services.**
+
+Now I build systems where:
+- Monitoring catches issues before users notice
+- Automation handles routine recovery
+- Documentation means anyone can understand what's happening
+- CI/CD means deployments aren't scary
+
+**From my support background, I know:** Users don't care about your tech stack. They care if it works when they need it.
 
 ---
 
 <div align="center">
 
-### 🔗 Connect With Me
+### 🔗 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vishawnath-sethi-b219a232/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Vsethi44)
-[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:vishawanth.sethi786@gmail.com)
-[![Hashnode](https://img.shields.io/badge/Blog-blue?style=flat&logo=hashnode)](https://hashnode.com/@vsethi44)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/vishawnath-sethi-b219a232/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/Vsethi44)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail)](mailto:vishawanth.sethi786@gmail.com)
+[![Hashnode](https://img.shields.io/badge/Blog-2962FF?style=flat&logo=hashnode)](https://hashnode.com/@vsethi44)
 
 ---
 
-**"I don't just deploy code. I build systems that stay up."**
+**Building systems that don't need support tickets.**
 
-⭐ Star my repos if you find them useful | 💬 Open to collaboration
+⭐ Star my repos if they help you | 💬 Open to collaboration and freelance work
 
 </div>
