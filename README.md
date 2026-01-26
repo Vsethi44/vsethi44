@@ -2,9 +2,8 @@
 
 # Vishawnath Sethi
 
-### IT Support Professional Transitioning to Cloud & DevOps
-
-**9 Years Dell/Capgemini | AWS Certified Solutions Architect | Built Self-Healing Infrastructure & CI/CD Pipelines**
+### IT Support → Cloud & DevOps Engineer  
+**9 years Dell & Capgemini | AWS & Azure Certified | Reliability-first mindset**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vishawnath-sethi-b219a232/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:vishawanth.sethi786@gmail.com)
@@ -13,50 +12,43 @@
 
 ---
 
-## 🎯 My Transition Story
-
-After 9 years of solving technical problems for Dell and Capgemini clients, I realized something:
+## 🚀 Why Cloud & DevOps
+After 9 years in IT support, I learned one thing clearly:
 
 **The best support is the support that never needs to happen.**
 
-So I transitioned from **fixing issues manually** to **building systems that fix themselves.**
+So I moved from manually fixing issues to building **automated, self-healing systems**.
 
 ---
 
-## 🛠️ What I've Built
+## 🛠️ Projects (Production-focused)
 
 ### 🔄 Self-Healing Infrastructure
-An automated system that monitors services and recovers from failures without human intervention
-
-**Tech Stack:** Prometheus, Alertmanager, Flask (Python), Ansible, AWS EC2  
-**Result:** Automated recovery reduces downtime from manual response times
-
-**[→ View Project](https://github.com/Vsethi44/Self-Healing-Infrastructure-with-Prometheus-Alertmanager-Ansible)** | Screenshots + Demo Available
+Auto-detects failures and recovers services without human intervention.  
+**Tech:** Prometheus, Alertmanager, Flask (Python), Ansible, AWS EC2  
+**Impact:** Auto-recovery in **< 60 seconds**, no manual restarts  
+👉 [View Project](https://github.com/Vsethi44/Self-Healing-Infrastructure-with-Prometheus-Alertmanager-Ansible)
 
 ---
 
 ### 🚀 CI/CD Pipeline with Docker
-Fully automated build, test, and deployment workflow for Node.js applications
-
-**Tech Stack:** GitHub Actions, Docker, DockerHub, Node.js (Express)  
-**Result:** Zero-touch deployments from code commit to production
-
-**[→ View Project](https://github.com/Vsethi44/End-to-End-CI-CD-for-Node.js-Application-using-Docker-GitHub-Actions)** | Live Demo Available
+End-to-end automated build, test & deployment for Node.js apps.  
+**Tech:** GitHub Actions, Docker, DockerHub, Node.js  
+**Impact:** Zero-touch deployments from commit to production  
+👉 [View Project](https://github.com/Vsethi44/End-to-End-CI-CD-for-Node.js-Application-using-Docker-GitHub-Actions)
 
 ---
 
-### ☁️ AWS Static Website Hosting
-Production-ready static site deployment with automated CI/CD and CDN
-
-**Tech Stack:** AWS S3, CloudFront, GitHub Actions  
-**Result:** Automated deployments with global content delivery
-
-**[→ View Project](https://github.com/Vsethi44/Production-static-website-aws)** | Architecture Diagram Included
+### ☁️ AWS Static Website (CI/CD + CDN)
+Production-ready static site with global delivery.  
+**Tech:** S3, CloudFront, GitHub Actions  
+👉 [View Project](https://github.com/Vsethi44/Production-static-website-aws)
 
 ---
 
 <div align="center">
 
+<!-- Auto Dark / Light Mode Stats -->
 <picture>
   <source srcset="https://github-readme-stats.vercel.app/api?username=Vsethi44&show_icons=true&hide_border=true&theme=github_dark" media="(prefers-color-scheme: dark)" />
   <source srcset="https://github-readme-stats.vercel.app/api?username=Vsethi44&show_icons=true&hide_border=true&theme=default" media="(prefers-color-scheme: light)" />
@@ -69,137 +61,46 @@ Production-ready static site deployment with automated CI/CD and CDN
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vsethi44&hide_border=true" />
 </picture>
 
-<picture>
-  <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=Vsethi44&theme=github-dark" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=Vsethi44&theme=github-light" media="(prefers-color-scheme: light)" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vsethi44" />
-</picture>
-
 </div>
 
 ---
 
-## 💻 Technical Skills
-
-**Cloud & Infrastructure**
-- AWS: EC2, VPC, S3, IAM, CloudWatch, CloudFront
-- Azure: Fundamentals (AZ-104 certified)
-
-**DevOps & Automation**
-- Containers: Docker, Kubernetes (basics)
-- CI/CD: GitHub Actions, Jenkins
-- IaC: Terraform, Ansible
-- Monitoring: Prometheus, Grafana, Alertmanager
-
-**Languages & Scripting**
-- Python (automation scripts)
-- Bash (shell scripting)
-- YAML (configurations)
-
-**Systems**
-- Linux (Ubuntu, command line)
-- Git & GitHub
+## 🧰 Skills
+**Cloud:** AWS (EC2, VPC, S3, IAM, CloudWatch, CloudFront), Azure  
+**DevOps:** Docker, GitHub Actions, Jenkins, Terraform, Ansible  
+**Monitoring:** Prometheus, Grafana, Alertmanager  
+**Scripting:** Python, Bash, YAML  
+**Systems:** Linux, Git & GitHub
 
 ---
 
 ## 🎓 Certifications
-
-| Certification | Valid Until |
-|--------------|-------------|
-| AWS Certified Solutions Architect – Associate | Nov 2026 |
-| Microsoft DevOps Engineer Expert (AZ-400) | Apr 2027 |
-| Microsoft Azure Administrator (AZ-104) | Sep 2026 |
+- AWS Certified Solutions Architect – Associate (Nov 2026)  
+- Microsoft DevOps Engineer Expert (AZ-400)  
+- Microsoft Azure Administrator (AZ-104)
 
 ---
 
-## 📚 Background
-
-**2015-2021: Technical Support Engineer @ Dell International Services**
-- Resolved software and hardware issues for 100+ clients weekly
-- Developed a systematic troubleshooting approach
-- Created knowledge base documentation
-- Learned: How systems fail, what users struggle with, the importance of clear documentation
-
-**2021-2022: Senior Consultant @ Capgemini**
-- Used New Relic for application monitoring
-- Analyzed incidents and created tickets in ServiceNow
-- Coordinated with clients on issue resolution
-- Led team to maintain SLA compliance
-- Learned: How monitoring tools work, incident management workflows, client communication
-
-**2023-2024: Career Transition to Cloud & DevOps**
-- Completed intensive training in AWS, Docker, Kubernetes, CI/CD
-- Earned 3 professional certifications
-- Built hands-on projects to demonstrate skills
-- Learned: Infrastructure as code, automation, cloud architecture
-
-**2025: Seeking Cloud/DevOps Roles**
-- Applying a troubleshooting mindset to infrastructure problems
-- Building automated solutions instead of manual fixes
-- Ready to contribute to reliability-focused teams
+## 💼 Experience Snapshot
+**Dell (2015–2021):** High-volume production troubleshooting, documentation  
+**Capgemini (2021–2022):** Monitoring (New Relic), incidents, SLA ownership  
+**2023–Present:** Cloud & DevOps transition with hands-on projects
 
 ---
 
-## 🎯 What I'm Looking For
+## 🎯 Open To
+- Cloud Support / Cloud Operations  
+- Junior / Entry-level DevOps roles  
+- Freelance cloud automation work  
 
-### Open to these roles:
-- ✅ Cloud Support Engineer (AWS, Azure, GCP)
-- ✅ DevOps Engineer (Entry to Junior level)
-- ✅ Cloud Operations roles
-- ✅ Freelance cloud automation projects
-
-### What I bring:
-- **Real troubleshooting experience** from 9 years in support
-- **Documentation skills** - I know how to explain technical concepts clearly
-- **Monitoring tool experience** - Used New Relic professionally
-- **Client communication** - Comfortable working directly with stakeholders
-- **Operational mindset** - Focus on reliability and user experience
-- **Immediate availability** - No notice period required
+**Strengths:** Real production troubleshooting, monitoring mindset, clear documentation, stakeholder communication.
 
 ---
 
-## 📊 GitHub Stats
+## 💡 Philosophy
+Users don’t care about your tech stack.  
+They care if the system works when they need it.
 
-<div align="center">
+**I build systems that don’t need support tickets.**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vsethi44&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=bf91f3&icon_color=bf91f3)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vsethi44&theme=tokyonight&hide_border=true)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vsethi44&theme=tokyo-night)
-
-</div>
-
-
----
-
-## 💡 My Approach
-
-**I learned cloud/DevOps because I was tired of being called at 3 AM to restart services manually.**
-
-Now I build systems where:
-- Monitoring catches issues before users notice
-- Automation handles routine recovery
-- Documentation means anyone can understand what's happening
-- CI/CD means deployments aren't scary
-
-**From my support background, I know:** Users don't care about your tech stack. They care if it works when they need it.
-
----
-
-<div align="center">
-
-### 🔗 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/vishawnath-sethi-b219a232/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/Vsethi44)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail)](mailto:vishawanth.sethi786@gmail.com)
-[![Hashnode](https://img.shields.io/badge/Blog-2962FF?style=flat&logo=hashnode)](https://hashnode.com/@vsethi44)
-
----
-
-**Building systems that don't need support tickets.**
-
-⭐ Star my repos if they help you | 💬 Open to collaboration and freelance work
-
-</div>
+⭐ Star repos if useful | 🤝 Open to collaboration
