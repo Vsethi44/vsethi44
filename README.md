@@ -26,7 +26,7 @@ So I transitioned from **fixing issues manually** to **building systems that fix
 ## 🛠️ What I've Built
 
 ### 🔄 Self-Healing Infrastructure
-Automated system that monitors services and recovers from failures without human intervention
+An automated system that monitors services and recovers from failures without human intervention
 
 **Tech Stack:** Prometheus, Alertmanager, Flask (Python), Ansible, AWS EC2  
 **Result:** Automated recovery reduces downtime from manual response times
@@ -92,9 +92,9 @@ Production-ready static site deployment with automated CI/CD and CDN
 
 **2015-2021: Technical Support Engineer @ Dell International Services**
 - Resolved software and hardware issues for 100+ clients weekly
-- Developed systematic troubleshooting approach
+- Developed a systematic troubleshooting approach
 - Created knowledge base documentation
-- Learned: How systems fail, what users struggle with, importance of clear documentation
+- Learned: How systems fail, what users struggle with, the importance of clear documentation
 
 **2021-2022: Senior Consultant @ Capgemini**
 - Used New Relic for application monitoring
@@ -110,7 +110,7 @@ Production-ready static site deployment with automated CI/CD and CDN
 - Learned: Infrastructure as code, automation, cloud architecture
 
 **2025: Seeking Cloud/DevOps Roles**
-- Applying troubleshooting mindset to infrastructure problems
+- Applying a troubleshooting mindset to infrastructure problems
 - Building automated solutions instead of manual fixes
 - Ready to contribute to reliability-focused teams
 
@@ -146,7 +146,7 @@ Production-ready static site deployment with automated CI/CD and CDN
 
 ## 💡 My Approach
 
-**I learned cloud/DevOps because I was tired of being called at 3 AM to manually restart services.**
+**I learned cloud/DevOps because I was tired of being called at 3 AM to restart services manually.**
 
 Now I build systems where:
 - Monitoring catches issues before users notice
