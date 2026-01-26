@@ -83,7 +83,7 @@ Production-ready static site deployment with automated CI/CD and CDN
 | Certification | Valid Until |
 |--------------|-------------|
 | AWS Certified Solutions Architect – Associate | Nov 2026 |
-| Microsoft DevOps Engineer Expert (AZ-400) | Apr 2026 |
+| Microsoft DevOps Engineer Expert (AZ-400) | Apr 2027 |
 | Microsoft Azure Administrator (AZ-104) | Sep 2026 |
 
 ---
