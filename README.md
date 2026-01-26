@@ -15,7 +15,7 @@
 
 ## 🎯 My Transition Story
 
-After 9 years solving technical problems for Dell and Capgemini clients, I realized something:
+After 9 years of solving technical problems for Dell and Capgemini clients, I realized something:
 
 **The best support is the support that never needs to happen.**
 
@@ -52,6 +52,30 @@ Production-ready static site deployment with automated CI/CD and CDN
 **Result:** Automated deployments with global content delivery
 
 **[→ View Project](https://github.com/Vsethi44/Production-static-website-aws)** | Architecture Diagram Included
+
+---
+
+<div align="center">
+
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api?username=Vsethi44&show_icons=true&hide_border=true&theme=github_dark" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=Vsethi44&show_icons=true&hide_border=true&theme=default" media="(prefers-color-scheme: light)" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vsethi44&show_icons=true&hide_border=true" />
+</picture>
+
+<picture>
+  <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=Vsethi44&hide_border=true&theme=github-dark" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=Vsethi44&hide_border=true&theme=default" media="(prefers-color-scheme: light)" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vsethi44&hide_border=true" />
+</picture>
+
+<picture>
+  <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=Vsethi44&theme=github-dark" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=Vsethi44&theme=github-light" media="(prefers-color-scheme: light)" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vsethi44" />
+</picture>
+
+</div>
 
 ---
 
