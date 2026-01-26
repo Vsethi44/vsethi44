@@ -51,7 +51,7 @@ Production-ready static site deployment with automated CI/CD and CDN
 **Tech Stack:** AWS S3, CloudFront, GitHub Actions  
 **Result:** Automated deployments with global content delivery
 
-**[→ View Project](https://github.com/Vsethi44/Production-Static-Website-Hosting-AWS-CICD)** | Architecture Diagram Included
+**[→ View Project](https://github.com/Vsethi44/Production-static-website-aws)** | Architecture Diagram Included
 
 ---
 
