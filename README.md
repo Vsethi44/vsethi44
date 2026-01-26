@@ -63,10 +63,17 @@ Production-ready static site with automated deployments and global delivery.
 </picture>
 
 <picture>
-  <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=Vsethi44&hide_border=true&theme=github-dark" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=Vsethi44&hide_border=true&theme=default" media="(prefers-color-scheme: light)" />
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=Vsethi44&theme=dark&hide_border=true&stroke=FFFFFF&ring=58A6FF&fire=FF7B72&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=Vsethi44&theme=default&hide_border=true"
+    media="(prefers-color-scheme: light)"
+  />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vsethi44&hide_border=true" />
 </picture>
+
 
 </div>
 
