@@ -26,12 +26,12 @@ So I transitioned from **fixing issues manually** to **building systems that fix
 ## 🛠️ What I've Built
 
 ### 🔄 Self-Healing Infrastructure
-Automated system that monitors services and recovers from failures without human intervention
+An automated system that monitors services and recovers from failures without human intervention
 
 **Tech Stack:** Prometheus, Alertmanager, Flask (Python), Ansible, AWS EC2  
 **Result:** Automated recovery reduces downtime from manual response times
 
-**[→ View Project](https://github.com/Vsethi44/Self-Healing-Infrastructure-Prometheus-Alertmanager-Ansible)** | Screenshots + Demo Available
+**[→ View Project](https://github.com/Vsethi44/Self-Healing-Infrastructure-with-Prometheus-Alertmanager-Ansible)** | Screenshots + Demo Available
 
 ---
 
