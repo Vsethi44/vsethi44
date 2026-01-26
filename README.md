@@ -31,7 +31,7 @@ An automated system that monitors services and recovers from failures without hu
 **Tech Stack:** Prometheus, Alertmanager, Flask (Python), Ansible, AWS EC2  
 **Result:** Automated recovery reduces downtime from manual response times
 
-**[→ View Project](https://github.com/Vsethi44/Self-Healing-Infrastructure-Prometheus-Alertmanager-Ansible)** | Screenshots + Demo Available
+**[→ View Project](https://github.com/Vsethi44/Self-Healing-Infrastructure-with-Prometheus-Alertmanager-Ansible)** | Screenshots + Demo Available
 
 ---
 
@@ -51,7 +51,7 @@ Production-ready static site deployment with automated CI/CD and CDN
 **Tech Stack:** AWS S3, CloudFront, GitHub Actions  
 **Result:** Automated deployments with global content delivery
 
-**[→ View Project](https://github.com/Vsethi44/Production-Static-Website-Hosting-AWS-CICD)** | Architecture Diagram Included
+**[→ View Project](https://github.com/Vsethi44/Production-static-website-aws)** | Architecture Diagram Included
 
 ---
 
