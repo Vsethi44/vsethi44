@@ -1,9 +1,5 @@
 <div align="center">
   
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=IT+Support+to+Cloud+%26+DevOps+Transition;Monitoring-first+%7C+Automation-driven;Building+systems+that+fix+themselves" />
-</p>
-
 # Vishawnath Sethi
 
 ### IT Support Professional | Transitioning to Cloud & DevOps  
@@ -65,19 +61,6 @@ Production-ready static site with automated deployments and global delivery.
   <source srcset="https://github-readme-stats.vercel.app/api?username=Vsethi44&show_icons=true&hide_border=true&theme=default" media="(prefers-color-scheme: light)" />
   <img src="https://github-readme-stats.vercel.app/api?username=Vsethi44&show_icons=true&hide_border=true" />
 </picture>
-
-<picture>
-  <source
-    srcset="https://streak-stats.demolab.com?user=Vsethi44&theme=dark&hide_border=true&background=000000&stroke=FFFFFF&ring=58A6FF&fire=FF7B72&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://streak-stats.demolab.com?user=Vsethi44&theme=default&hide_border=true"
-    media="(prefers-color-scheme: light)"
-  />
-  <img src="https://streak-stats.demolab.com?user=Vsethi44&hide_border=true" />
-</picture>
-
 
 </div>
 
