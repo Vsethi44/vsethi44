@@ -64,14 +64,14 @@ Production-ready static site with automated deployments and global delivery.
 
 <picture>
   <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=Vsethi44&theme=dark&hide_border=true&stroke=FFFFFF&ring=58A6FF&fire=FF7B72&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF"
+    srcset="https://streak-stats.demolab.com?user=Vsethi44&theme=dark&hide_border=true&background=000000&stroke=FFFFFF&ring=58A6FF&fire=FF7B72&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=Vsethi44&theme=default&hide_border=true"
+    srcset="https://streak-stats.demolab.com?user=Vsethi44&theme=default&hide_border=true"
     media="(prefers-color-scheme: light)"
   />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vsethi44&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Vsethi44&hide_border=true" />
 </picture>
 
 
