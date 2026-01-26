@@ -80,12 +80,6 @@ Production-ready static site with global delivery.
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-**Cloud:** AWS (EC2, VPC, S3, IAM, CloudWatch, CloudFront), Azure  
-**DevOps:** Docker, GitHub Actions, Jenkins, Terraform, Ansible  
-**Monitoring:** Prometheus, Grafana, Alertmanager  
-**Scripting:** Python, Bash, YAML  
-**Systems:** Linux, Git & GitHub
-
 ---
 
 ## 🎓 Certifications
