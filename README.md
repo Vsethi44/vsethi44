@@ -140,11 +140,12 @@ Production-ready static site deployment with automated CI/CD and CDN
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vsethi44&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=bf91f3&icon_color=bf91f3)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Vsethi44&theme=tokyo-night)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vsethi44&theme=tokyonight&hide_border=true)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vsethi44&theme=tokyo-night)
 
 </div>
+
 
 ---
 
