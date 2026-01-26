@@ -3,7 +3,7 @@
 # Vishawnath Sethi
 
 ### IT Support Professional | Transitioning to Cloud & DevOps
-***AWS & Azure Certified | Reliability-first mindset**
+**AWS & Azure Certified | Reliability-first mindset**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vishawnath-sethi-b219a232/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:vishawanth.sethi786@gmail.com)
