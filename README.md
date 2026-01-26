@@ -2,9 +2,9 @@
 
 # Vishawnath Sethi
 
-### IT Support Professional → Cloud Infrastructure Engineer
+### IT Support Professional Transitioning to Cloud & DevOps
 
-**9 Years Technical Support Experience | AWS Certified | Building Automated, Self-Healing Systems**
+**9 Years Dell/Capgemini | AWS Certified Solutions Architect | Built Self-Healing Infrastructure & CI/CD Pipelines**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vishawnath-sethi-b219a232/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:vishawanth.sethi786@gmail.com)
@@ -26,12 +26,12 @@ So I transitioned from **fixing issues manually** to **building systems that fix
 ## 🛠️ What I've Built
 
 ### 🔄 Self-Healing Infrastructure
-An automated system that monitors services and recovers from failures without human intervention
+Automated system that monitors services and recovers from failures without human intervention
 
 **Tech Stack:** Prometheus, Alertmanager, Flask (Python), Ansible, AWS EC2  
 **Result:** Automated recovery reduces downtime from manual response times
 
-**[→ View Project](https://github.com/Vsethi44/Self-Healing-Infrastructure-with-Prometheus-Alertmanager-Ansible)** | Screenshots + Demo Available
+**[→ View Project](https://github.com/Vsethi44/Self-Healing-Infrastructure-Prometheus-Alertmanager-Ansible)** | Screenshots + Demo Available
 
 ---
 
@@ -51,7 +51,7 @@ Production-ready static site deployment with automated CI/CD and CDN
 **Tech Stack:** AWS S3, CloudFront, GitHub Actions  
 **Result:** Automated deployments with global content delivery
 
-**[→ View Project](https://github.com/Vsethi44/Production-static-website-aws)** | Architecture Diagram Included
+**[→ View Project](https://github.com/Vsethi44/Production-Static-Website-Hosting-AWS-CICD)** | Architecture Diagram Included
 
 ---
 
