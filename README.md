@@ -10,6 +10,10 @@ AWS & Azure Certified | Reliability-first mindset
 
 </div>
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=70&section=header&text=Support%20Mindset%20→%20Automation%20→%20Reliable%20Cloud%20Engineering&fontSize=22&fontColor=ffffff"/>
+</p>
+
 ---
 
 ## 🚀 Why Cloud & DevOps
