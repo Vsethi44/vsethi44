@@ -64,10 +64,9 @@ Production-ready static site with automated deployments and global delivery.
 
 ---
 
-## ⚡ Recent GitHub Activity
+## ⚡ Live GitHub Activity
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+![Metrics](https://github.com/Vsethi44/Vsethi44/blob/main/github-metrics.svg)
 
 ---
 
