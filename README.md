@@ -1,22 +1,19 @@
 <div align="center">
 
-# Vishawnath Sethi
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=160&section=header&text=Vishawnath%20Sethi&fontSize=40&fontColor=ffffff"/>
 
-### Cloud & DevOps Engineer (Transitioning from 9 Years IT Support)
-
-AWS & Azure Certified • Automation • Monitoring • Reliability Engineering
+### Cloud & DevOps | AWS • Azure • Automation • Monitoring
 
 <p align="center">
-  
-🛠 I started my career fixing systems after they broke.  
-☁ Now I'm building skills to design cloud systems that prevent failures before they happen.
-
+🛠 From fixing systems after failure  
+☁ To learning how to design systems that prevent failures
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vishawnath-sethi-b219a232/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:vishawanth.sethi786@gmail.com)
 
 </div>
+
 
 ---
 
