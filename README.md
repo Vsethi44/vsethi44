@@ -1,18 +1,33 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=160&section=header&text=Vishawnath%20Sethi&fontSize=40&fontColor=ffffff"/>
-
-### Cloud & DevOps | AWS • Azure • Automation • Monitoring
-
-<p align="center">
-🛠 From fixing systems after failure  
-☁ To learning how to design systems that prevent failures
-</p>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vishawnath-sethi-b219a232/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:vishawanth.sethi786@gmail.com)
+<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Vishawnath%20Sethi&fontColor=ffffff&fontSize=55&animation=fadeIn"/>
 
 </div>
+
+---
+
+<div align="center">
+
+### ☁ Cloud • ⚙ Automation • 📊 Monitoring • 🚀 DevOps
+
+<br>
+
+🛠 **From fixing systems after failure**  
+☁ **To building cloud systems that prevent failures**
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishawnath-sethi-b219a232/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishawanth.sethi786@gmail.com)
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+
+---
+
 
 
 ---
