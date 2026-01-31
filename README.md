@@ -55,14 +55,13 @@ Production-ready static site with automated deployments and global delivery.
 
 <div align="center">
 
-<!-- Auto Dark / Light Mode GitHub Stats -->
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=Vsethi44&show_icons=true&hide_border=true&theme=github_dark" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api?username=Vsethi44&show_icons=true&hide_border=true&theme=default" media="(prefers-color-scheme: light)" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Vsethi44&show_icons=true&hide_border=true" />
-</picture>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Vsethi44&show_icons=true&hide_border=true&theme=github_dark&cache_seconds=1800"
+  alt="GitHub Stats"
+/>
 
 </div>
+
 
 ---
 
