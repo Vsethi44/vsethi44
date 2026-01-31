@@ -7,14 +7,12 @@ AWS & Azure Certified | Reliability-first mindset
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vishawnath-sethi-b219a232/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:vishawanth.sethi786@gmail.com)
-
 </div>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=70&section=header&text=Support%20Mindset%20→%20Automation%20→%20Reliable%20Cloud%20Engineering&fontSize=22&fontColor=ffffff"/>
 </p>
 
-<p align="center"> 🛠 I started my career fixing systems after they broke. ☁ Now I'm learning to build cloud systems that prevent failures before they happen. </p>
 ---
 
 ## 🚀 Why Cloud & DevOps
