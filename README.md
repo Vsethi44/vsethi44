@@ -14,6 +14,7 @@ AWS & Azure Certified | Reliability-first mindset
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=70&section=header&text=Support%20Mindset%20→%20Automation%20→%20Reliable%20Cloud%20Engineering&fontSize=22&fontColor=ffffff"/>
 </p>
 
+<p align="center"> 🛠 I started my career fixing systems after they broke. ☁ Now I'm learning to build cloud systems that prevent failures before they happen. </p>
 ---
 
 ## 🚀 Why Cloud & DevOps
