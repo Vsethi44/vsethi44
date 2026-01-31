@@ -55,13 +55,9 @@ Production-ready static site with automated deployments and global delivery.
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Vsethi44&show_icons=true&hide_border=true&theme=github_dark&cache_seconds=1800"
-  alt="GitHub Stats"
-/>
+![GitHub Streak](https://streak-stats.demolab.com?user=Vsethi44&theme=github-dark&hide_border=true)
 
 </div>
-
 
 ---
 
